@@ -1,0 +1,1 @@
+The goal of this project is to take pre-game data from the soccer games to predict whether the home team will win, the away team will win, or it will end in a tie. So far, none of the models have been able to do so with a high degree of accuracy, and I plan to continue iteratively improving upon this. Continue checking back for updated results.
