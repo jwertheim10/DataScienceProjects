@@ -1,0 +1,1 @@
+The goal of this project is to improve my data analysis skills using data from Spotify (updated as of 3/8/2024). Through this I will be able to run some rudimentary data analysis, show some data visualization skills, and prove my Python skills.
