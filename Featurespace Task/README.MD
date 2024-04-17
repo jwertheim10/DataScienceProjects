@@ -46,9 +46,9 @@ Once you have identified the compromised merchant, prepare a brief presentation 
 ## Data Format:
 
 PreInterviewTaskData.csv 
-Field                  Description
-Account                Unique id of the account
-Date                   Date of the transaction
-Fraud                  Boolean flag for fraud 
-Merchant               Unique id of the merchant
-
+| Field      | Description                |
+|:-----------|---------------------------:|
+| Account    | Unique id of the account   |
+| Date       | Date of the transaction    |
+| Fraud      | Boolean flag for fraud     |
+| Merchant   | Unique id of the merchant  |
